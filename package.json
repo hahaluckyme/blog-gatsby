@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gatsby": "^2.23.3"
+    "gatsby": "^4.25.7"
   }
 }
